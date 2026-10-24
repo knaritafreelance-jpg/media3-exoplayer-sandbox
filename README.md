@@ -1,0 +1,2 @@
+# media3-exoplayer-sandbox
+Claude Codeを活用してAndroidのJetpack Media3 ExoPlayer実装を検証するためのテスト用リポジトリです。AI駆動開発による実装効率の検証と、Media3を用いたメディア再生機能の動作確認を行っています。
